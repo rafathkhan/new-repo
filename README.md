@@ -1,2 +1,2 @@
-# this is my new repo
-author RK
+# This is my new repo
+ Author - RK
